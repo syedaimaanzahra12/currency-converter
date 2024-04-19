@@ -1,6 +1,6 @@
 {
-  "name": "currency-converter",
-  "version": "1.0.0",
+  "name": "@syeda_imaan_zahra/currency-converter",
+  "version": "1.0.1",
   "description": "this is a cli currency converter",
   "main": "index.js",
   "type": "module",
